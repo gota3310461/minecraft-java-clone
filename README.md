@@ -1,3 +1,1 @@
-# Hello there! 
-Hope you enjoy a minecraft clone!
-Guides are coming soon!
+This minecraft java clone is now abandoned, but if we fail, we might comeback to this
