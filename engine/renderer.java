@@ -4,7 +4,7 @@ public class render {
 
     public void draw(){
 
-        // aquí se dibujarán bloques
+        // here the blocks are drawn
 
     }
 
